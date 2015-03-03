@@ -1,0 +1,9 @@
+# Things to ignore #
+####################
+*.swp
+.DS_Store
+.DS_Store?
+
+
+# Folders
+OLD/
